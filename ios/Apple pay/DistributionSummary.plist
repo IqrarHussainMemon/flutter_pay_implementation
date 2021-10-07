@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flutter_pay_2.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>2624FE3DE9366E38BDE6E23D996F2EFF63D332FE</string>
+				<key>dateExpires</key>
+				<string>07/10/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2624FE3DE9366E38BDE6E23D996F2EFF63D332FE</string>
+						<key>dateExpires</key>
+						<string>07/10/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4H849Z7V2K</string>
+						<key>name</key>
+						<string>GZ Systems Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2624FE3DE9366E38BDE6E23D996F2EFF63D332FE</string>
+						<key>dateExpires</key>
+						<string>07/10/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4H849Z7V2K</string>
+						<key>name</key>
+						<string>GZ Systems Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2624FE3DE9366E38BDE6E23D996F2EFF63D332FE</string>
+						<key>dateExpires</key>
+						<string>07/10/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>path_provider.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4H849Z7V2K</string>
+						<key>name</key>
+						<string>GZ Systems Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>2624FE3DE9366E38BDE6E23D996F2EFF63D332FE</string>
+						<key>dateExpires</key>
+						<string>07/10/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>pay_ios.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>4H849Z7V2K</string>
+						<key>name</key>
+						<string>GZ Systems Limited</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>4H849Z7V2K.com.example.flutterPay2</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.in-app-payments</key>
+				<array/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>4H849Z7V2K</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4332cfa6-4584-4a24-a092-38f0f54e8899</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.example.flutterPay2</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>4H849Z7V2K</string>
+				<key>name</key>
+				<string>GZ Systems Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
